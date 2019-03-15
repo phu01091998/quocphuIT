@@ -1,0 +1,163 @@
+/* HELLO! Soi cai gi */
+
+*{margin:0;padding:0; }
+
+a.fa.fa-times-circle {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.icon-out {
+    text-align: center;
+    font-size: 200%;
+}
+
+img.icon-anh {
+    width: 38px;
+    padding: 4px 0px;
+    margin: auto;
+}
+
+.icon1 {
+    text-align: center;
+}
+
+.menulist {
+    position: fixed;
+    right: -300px;
+    background-color: #1f1e1e;
+    padding: 8px 28px 48px 30px;
+    border-radius: 7px;
+    opacity: 0.95;
+}
+
+.ra {
+    right: 0px;
+}
+
+.menulist.ra {
+    line-height: 36px;
+    text-decoration: none;
+    color: #f5eded;
+}
+
+.menulist.ra a {
+    line-height: 36px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu {
+    position: fixed;
+    right: 0;
+    font-size: 172%;
+    background-color: black;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 23px;
+    text-decoration: none;
+}
+
+.noidung hr {
+    width: 158px;
+    margin: auto;
+    padding: 1%;
+}
+
+.noidung .btn.btn-default.nut {
+    padding: 7px;
+    padding-bottom: 0px;
+    text-align: center;
+    background-color: #eada1e;
+    color: white;
+    opacity: 0.69;
+    width: 82px;
+    letter-spacing: 1px;
+    margin-left: 11px;
+    margin-right: 11px;
+}
+
+.noidung p {
+    font-size: 50px;
+    color: white;
+    font-family: cursive;
+    font-weight: 400;
+}
+
+p.pp {
+    display: block;
+    font-size: 92%;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 550;
+    padding: 1%;
+}
+
+.top1 i.fa.fa-facebook.icon-face {
+    font-size: 28px;
+    border: 2px solid;
+    border-radius: 60%;
+    padding: 13px;
+    color: #110bfb;
+    line-height: 0.5;
+    margin-bottom: 13px;
+}
+
+.top1 img.img-circle.img-responsive {
+    margin: auto;
+    width: 56%;
+    height: 56%;
+}
+
+.container {
+    height: 100%;
+}
+
+.top1 .row {
+    text-align: center;
+}
+
+top1 .row {
+    height: 100%;
+}
+
+.top2 {
+    width: 66.5%;
+    height: 502px;
+}
+
+.top3 .row {
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+
+
+
+
+.anh {
+    margin-top: 9%;
+}
+
+.nutface {background: none;border: none;}
+
+.nutface i.fa.fa-facebook {
+    
+}
+
+.top1 {
+	height: 520px;
+	background-image:url("images/background1.jpg");
+	background-size: cover;
+	padding-top: 11%;
+}
+
+
+/*  createa by QUOC PHU */
